@@ -5,7 +5,7 @@ library(ggplot2)
 # When is your birthdate? Only Month and day.
 # Format "Month/date". For example for date "January 9th", we write "01/09"
 my_name <- "Emma Cohen"
-my_bd <- 0122
+my_bd <- "01/22"
 
 
 
