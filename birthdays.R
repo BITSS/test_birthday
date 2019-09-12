@@ -28,3 +28,6 @@ df %>% ggplot(mapping = aes(x = reorder(names, as.numeric(birthdate)),
         labs(title = "Figure 1: Birthday of Participants", 
              subtitle = "Anybody with the same birthday?")+
         geom_hline(yintercept = same_bday, color = "red", show.legend=T)
+        
+       
+      small little change
