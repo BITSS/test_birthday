@@ -4,9 +4,8 @@ library(magrittr)
 
 # What is your name? 
 # When is your birthdate? Only Month and day.
-
 # Format "Month/date". For example for date "January 9th", we write "01/09"
-my_name <- "Emma Cohen"
+my_name <- "Emma"
 my_bd <- "01/22"
 
 
@@ -23,12 +22,12 @@ my_name[5] <- "Apollo"
 my_bd[5] <- "03/23"
 my_name[5] <- "Daniela" 
 my_bd[5] <- "02/18"
-
 my_name[6] <- "Megan" 
 my_bd[6] <- "06/26"
-
-my_name[7] <- "YOUR NAME HERE" 
-my_bd[7] <- "MONTH/DAY HERE"
+my_name[7] <- "Jessica" 
+my_bd[7] <- "10/07"
+my_name[8] <- "YOUR NAME HERE" 
+my_bd[8] <- "MONTH/DAY HERE"
 
 # When done, save, commit, push and make your first pull request.
 ###################################
