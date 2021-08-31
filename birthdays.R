@@ -6,8 +6,8 @@ library(magrittr)
 # When is your birthdate? Only Month and day.
 
 # Format "Month/date". For example for date "January 9th", we write "01/09"
-my_name <- NULL
-my_bd <- NULL
+my_name <- "Emma Cohen"
+my_bd <- "01/22"
 
 
 # Format "Month/date". For example for date "January 9th", we write "01/09"
