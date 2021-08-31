@@ -24,8 +24,11 @@ my_bd[5] <- "03/23"
 my_name[5] <- "Daniela" 
 my_bd[5] <- "02/18"
 
-my_name[6] <- "YOUR NAME HERE" 
-my_bd[6] <- "MONTH/DAY HERE"
+my_name[6] <- "Megan" 
+my_bd[6] <- "06/26"
+
+my_name[7] <- "YOUR NAME HERE" 
+my_bd[7] <- "MONTH/DAY HERE"
 
 # When done, save, commit, push and make your first pull request.
 ###################################
